@@ -44,4 +44,6 @@ This repository contains **three interactive dashboards** designed to **optimize
 
 ---
 
+### ⭐️ **If you find this repository useful, give it a star!**
+
 
